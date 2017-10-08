@@ -1,8 +1,9 @@
+# Web-Application-For-RestaurantListings
+
 # Full-Stack-Menu-Project
 
 A simple web app made with Python.
 
-![screenshot](http://downloads.chrisullyott.com/courses/udacity/full-stack/finalproject-demo.jpg)
 
 ## Dependencies
 
